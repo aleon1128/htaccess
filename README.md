@@ -31,5 +31,3 @@ http://www.example.com:80/path/to/myfile.html?key1=value1&key2=value2#SomewhereI
 | 4 de 6       | /path/to/myfile.html    | Define la **ruta de acceso** al recurso en el servidor.     |
 | 5 de 6       | ?key1=value1&key2=value2| Definen los **parámetros** de pares relación: clave-valor. key-value que complementan la búsqueda y acceso al recurso en el servidor, es una cadena de consulta para comunicar datos desde un formulario hacia el servidor; es una relación para enviar, identificar datos y filtrar resultados de búsqueda. identificador de inicio de pares relacionados, = valor asignado a identificador, &,% separador, delimitador de parámetros. https://www.ietf.org/rfc/rfc3986.txt     |
 | 6 de 6       | #SomewhereInTheDocument | Es un identificador de un elemento y,o fragmento HTML     |
-
-
